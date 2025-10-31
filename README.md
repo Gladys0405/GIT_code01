@@ -1,0 +1,1 @@
+C'est un petit programme conçu dans le but de demander les informations personnelles; et le programme réaffiche à l'écran les informations saisies par l'utilisateur avec un petit supplément sur son âge s'il est majeur ou mineur
